@@ -90,6 +90,3 @@ In order to have a copy of the project up and running locally, you will need to 
 ## Built With
 - Python and SQL
 - AWS Redshift
-
-## Authors
-- Jonathan Kamau - [Github Profile](https://github.com/jonathankamau)
